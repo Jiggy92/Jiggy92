@@ -1,6 +1,11 @@
+#Managing Azure AD identities
+
 In this task your Prerequisites should be: Azure Portal, Azure AD Premium license P2
+
 Task 1: create and configure Azure AD users 
-Task 2: create ad groups, assign dynamic membership, 
+
+Task 2: create ad groups, assign dynamic membership
+
 Task 3: manage azure ad guest users
 
 
@@ -58,5 +63,6 @@ On the **new user account profile, click on groups
 Click on **add membership and add guest user account
 
 
+Task 4:
 
 ***Please do not forget to clear up your resources to save cost of unused enviornment***
